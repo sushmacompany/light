@@ -1,0 +1,8 @@
+/opt/light/src/main/java/light/service/MemberRegistration.java
+/opt/light/src/main/java/light/data/MemberRepository.java
+/opt/light/src/main/java/light/controller/MemberController.java
+/opt/light/src/main/java/light/model/Member.java
+/opt/light/src/main/java/light/rest/MemberResourceRESTService.java
+/opt/light/src/main/java/light/data/MemberListProducer.java
+/opt/light/src/main/java/light/rest/JaxRsActivator.java
+/opt/light/src/main/java/light/util/Resources.java

@@ -1,0 +1,9 @@
+light/data/MemberRepository.class
+light/util/Resources.class
+light/model/Member.class
+light/rest/JaxRsActivator.class
+light/data/MemberListProducer.class
+light/controller/MemberController.class
+light/model/Member_.class
+light/service/MemberRegistration.class
+light/rest/MemberResourceRESTService.class
